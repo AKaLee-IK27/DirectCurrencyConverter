@@ -12,7 +12,7 @@ MVVM (Model View ViewModel Pattern)
 
 Hilt (For Dependency Injection)
 
-An API to get currency rate and conversion (https://currency.getgeoapi.com/) (You can use any!)
+An API to get currency rate (https://openexchangerates.org/)
 
 Retrofit (For making API calls)
 
