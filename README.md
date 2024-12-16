@@ -2,7 +2,7 @@
 Currency Converter App for Android highlighting recommended Architectural patterns.
 
 
-<img src="https://ibb.co/qkTCf81" > 
+<img src="https://i.ibb.co/V2fxZGB/Screenshot-2024-12-17-01-52-46-645-com-example-simplecurrencyconverter-1.jpg" > 
 
 ## This App Uses
 
