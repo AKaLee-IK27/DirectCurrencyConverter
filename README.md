@@ -8,7 +8,7 @@ Currency Converter App for Android highlighting recommended Architectural patter
 
 Kotlin
 
-MVVM (Model View ViewModel Pattern)
+MVVM (Model-View-ViewModel)
 
 Hilt (For Dependency Injection)
 
@@ -16,13 +16,11 @@ An API to get currency rate (https://openexchangerates.org/)
 
 Retrofit (For making API calls)
 
-Flow
-
-LiveData
-
 Coroutines (For simplifying Asynchronous operations)
 
 View Binding (For interacting with views)
 
-Some other libraries
+Flow, LiveData, Some other libraries...
+
+
 
